@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about physics, machine learning, an
 - **Description:** Neural network for predicting quantum energy levels.
 - **Technologies Used:** Python, TensorFlow Keras.
 
-#### [**star_evolution_analysis.py**](https://github.com/barrosyan/physics-nn/blob/main/star_evolution_analysis.py) and [**stellar-evolution.py**](https://github.com/barrosyan/physics-nn/blob/main/stellar-evolution.py)
+#### [**star_evollution_analysis.py**](https://github.com/barrosyan/physics-nn/blob/main/star_evollution_analysis.py) and [**stellar-evolution.py**](https://github.com/barrosyan/physics-nn/blob/main/stellar-evolution.py)
 
 - **Description:** Simulation of stellar evolution with TensorFlow Keras using known equations and generated data.
 - **Technologies Used:** Python, TensorFlow Keras.
